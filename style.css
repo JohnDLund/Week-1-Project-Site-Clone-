@@ -1,0 +1,18 @@
+body {
+    outline: solid 1px black;
+}
+
+.custom-font-1 {
+    font-family: 'Iceberg', cursive;
+    font-size: 3rem;
+}
+
+.bg-image-1 {
+    background-image: url(bg-image-1.png);
+    background-size: auto;
+}
+
+.custom-font-2 {
+    font-family: 'Iceberg', cursive;
+    font-size: 1rem;
+}
