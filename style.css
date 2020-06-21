@@ -14,7 +14,7 @@
 
 .bg-image-1 {
     background-image: url(bg-image-1.png);
-    background-size: auto;
+    background-size: 140%;
 }
 
 .bg-image-2 {
@@ -22,9 +22,13 @@
     background-size: 50%;
 }
 
+.bg-light-grey {
+    background-color: rgb(219, 219, 219);
+}
 
-
-
+.bg-orange {
+    background-color: rgb(199, 96, 0);
+}
 
 .card-shadow {
     box-shadow: 5px 5px 10px;
