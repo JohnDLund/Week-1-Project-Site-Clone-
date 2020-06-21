@@ -4,7 +4,7 @@
 
 .custom-font-1 {
     font-family: 'Iceberg', cursive;
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 .custom-font-2 {
@@ -17,11 +17,6 @@
     background-size: cover;
     background-position: top center;
     background-repeat: no-repeat;   
-}
-
-.bg-image-2 {
-    background-image: url(bg-image-2.jpeg);
-    background-size: 50%;
 }
 
 .bg-light-grey {
