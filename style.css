@@ -35,3 +35,7 @@
 .card-shadow {
     box-shadow: 5px 5px 10px;
 }
+
+@media screen (min width 768px) {
+    big-card {position: absolute;}
+}
