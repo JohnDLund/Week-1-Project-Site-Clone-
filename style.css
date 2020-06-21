@@ -36,6 +36,13 @@
     box-shadow: 5px 5px 10px;
 }
 
-@media screen (min width 768px) {
-    big-card {position: absolute;}
+@media (max-width: 991px) {
+    .hidden-column {
+        display: none;
+    }
+}
+
+@media (min-width: 991px) {
+    .big-card {
+        position: absolute}
 }
